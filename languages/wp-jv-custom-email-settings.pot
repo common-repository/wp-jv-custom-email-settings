@@ -1,0 +1,294 @@
+# Copyright (C) 2015 WP JV Custom Email Settings
+# This file is distributed under the same license as the WP JV Custom Email Settings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP JV Custom Email Settings 2.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-jv-custom-"
+"email-settings\n"
+"POT-Creation-Date: 2015-12-01 09:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-jv-custom-email-settings.php:75
+msgid "Email From"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:76
+msgid "Email Address"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:80
+msgid "Notifications"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:81
+msgid "Notification mode"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:82
+msgid "Notify users about"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:83
+msgid "Notification e-mail subject"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:84
+msgid "Notification e-mail content"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:104 wp-jv-custom-email-settings.php:417
+msgid "Sending email notifications..."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:105
+msgid "Error sending emails."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:106 wp-jv-custom-email-settings.php:398
+#: wp-jv-custom-email-settings.php:408
+msgid "Re-send notification email(s)"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:107 wp-jv-custom-email-settings.php:975
+msgid "email(s) out of"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:108
+msgid "notification(s) sent. Check"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:109 wp-jv-custom-email-settings.php:975
+msgid "sent with"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:110
+msgid "log issues. Check"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:111
+msgid "log"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:112 wp-jv-custom-email-settings.php:970
+#: wp-jv-custom-email-settings.php:975 wp-jv-custom-email-settings.php:981
+msgid "for details."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:130
+msgid ""
+"By default all notification e-mails received from \"Wordpress\" < wordpress@"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:130
+msgid "You can change these below."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:154
+msgid "Tags available to make e-mail subject and/or content dynamic:"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:156
+msgid "means title of the post"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:157
+msgid "means URL of the post"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:158
+msgid "means URL with title of the post"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:159
+msgid "means the name of the post author"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:160
+msgid "means excerpt of the post"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:161
+msgid ""
+"means the first n (must be an integer number) number of word(s) extracted "
+"from the post"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:162
+msgid "means display name of the user who receives the e-mail"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:168
+msgid "Auto"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:168
+msgid "(send e-mails automatically when you publish a post)"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:169
+msgid "Manual"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:169
+msgid "(you need to press a button to send notification)"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:184
+msgid "Public posts"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:186
+msgid "Password"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:186
+msgid "protected posts (password will"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:186
+msgid "NOT"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:186
+msgid "be included in notification e-mail)"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:193
+msgid "This feature requires"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:193
+msgid "to be installed and activated."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:196
+msgid "Private posts"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:196
+msgid "Notifications are based on"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:196
+msgid "settings."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:202
+msgid ""
+"Hint: HTML tags are not allowed here, e.g.: %title_with_permalink% will "
+"revert to %title%."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:209
+msgid ""
+"Hint: HTML tags are welcome here to make your notification e-mails more "
+"personalized."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:241
+msgid "Notify me by e-mail when a new post is published"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:313 wp-jv-custom-email-settings.php:314
+msgid "Subscribe to WP JV CES notifications"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:315 wp-jv-custom-email-settings.php:316
+msgid "Unsubscribe from WP JV CES notifications"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:342
+msgid "Error subscribing users."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:349
+msgid "Error unsubscribing users."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:402 wp-jv-custom-email-settings.php:405
+msgid "Send notification email(s)"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:436
+msgid "Log"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:452
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:472
+msgid "Notification email sent"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:473
+msgid "Notification emails sent"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:481
+msgid "Post Title"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:482
+msgid "E-mail sent"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:483
+msgid "User Name"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:484
+msgid "User E-mail"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:485
+msgid "Status"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:595
+msgid "No e-mails sent out, yet."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:970
+msgid "Error sending notifications."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:970 wp-jv-custom-email-settings.php:975
+#: wp-jv-custom-email-settings.php:981
+msgid "Check log"
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:975
+msgid "log issues."
+msgstr ""
+
+#: wp-jv-custom-email-settings.php:981
+msgid "notification(s) sent."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP JV Custom Email Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://janosver.com/projects/wordpress/wp-jv-custom-email-settings"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Notify users about new posts published and customize your e-mail "
+"notification settings"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Janos Ver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://janosver.com"
+msgstr ""
